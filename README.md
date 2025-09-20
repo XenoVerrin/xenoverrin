@@ -5,7 +5,7 @@ I enjoy breaking and building things — focusing on web security, backend devel
 
 ---
 
-## 🔥 Key Highlights
+## About me
 - 🎯 Passionate about web penetration testing & CTF solving
 - 🛡️ Building **SecCyberFort** – a threat intelligence backend (MVP almost done)
 - 📚 Learning backend dev (Flask, Django, FastAPI). Im a newbie in this field so I still learn it a lot
