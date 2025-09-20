@@ -1,5 +1,9 @@
 # Hi, I’m Xenoverrin 👋  
 
+<p align="center">
+  <img src="./xenoverrin/uwu.gif" width="400" alt="Hacker animation">
+</p>
+
 **Passionate Web Pentester & CTF Learner**  
 I enjoy breaking and building things — focusing on web security, backend development, and continuous learning through CTFs.
 
