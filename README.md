@@ -1,7 +1,7 @@
 # Hi, I’m Xenoverrin 👋  
 
 <p align="center">
-  <img src="./xenoverrin/uwu.gif" width="400" alt="Hacker animation">
+  <img src="uwu.gif" width="400" alt="Hacker animation">
 </p>
 
 **Passionate Web Pentester & CTF Learner**  
