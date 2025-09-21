@@ -55,4 +55,4 @@ A **threat intelligence backend API** to scan IPs, URLs, phone numbers, and file
 
 ---
 
-> 💡 *Always learning. Always hacking (legally). Always building.*
+> *Braining*
