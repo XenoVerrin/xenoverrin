@@ -10,10 +10,10 @@ I enjoy breaking and building things — focusing on web security, backend devel
 ---
 
 ## About me
-- 🎯 Passionate about web penetration testing & CTF solving
-- 🛡️ Building **SecCyberFort** – a threat intelligence backend (MVP almost done)
-- 📚 Learning backend dev (Flask, Django, FastAPI). Im a newbie in this field so I still learn it a lot
-- 🔐 Exploring security tools & real-world exploitation techniques
+-  Passionate about web penetration testing & CTF solving
+-  Building **SecCyberFort** – a threat intelligence backend (MVP almost done)
+-  Learning backend dev (Flask, Django, FastAPI). Im a newbie in this field so I still learn it a lot
+-  Exploring security tools & real-world exploitation techniques
 
 ---
 
@@ -30,28 +30,28 @@ I enjoy breaking and building things — focusing on web security, backend devel
 
 ---
 
-## 🚀 Featured Project  
+##  Featured Project  
 
 ### SecCyberFort  
 A **threat intelligence backend API** to scan IPs, URLs, phone numbers, and files for malicious indicators.  
 **Stack:** Python, Flask, MongoDB • **Status:** MVP  
-- 🔎 Integrated external APIs (VirusTotal, IPQualityScore)
-- 📂 Modular structure for scalable and clear architecture  
+-  Integrated external APIs (VirusTotal, IPQualityScore)
+-  Modular structure for scalable and clear architecture  
 
 🔗 [Repo Link Coming Soon]()
 
 ---
 
-## 🧪 CTFs & Learning  
-- 🏆 Actively participating in CTFs to improve web exploitation skills  
-- 🧩 Completed multiple PortSwigger labs and TryHackMe rooms  
-- 🎖️ [TryHackMe Profile](https://tryhackme.com/p/XenoVerrin)
+##  CTFs & Learning  
+-  Actively participating in CTFs to improve web exploitation skills  
+-  Completed multiple PortSwigger labs and TryHackMe rooms  
+-  [TryHackMe Profile](https://tryhackme.com/p/XenoVerrin)
 
 ---
 
-## 📬 Contact Me  
-- 📧 **Email:** [quanghuyv28022004@gmail.com](mailto:quanghuyv28022004@gmail.com)  
-- 💬 **Discord:** `shealiar2802`
+##  Contact Me  
+-  **Email:** [quanghuyv28022004@gmail.com](mailto:quanghuyv28022004@gmail.com)  
+-  **Discord:** `shealiar2802`
 
 ---
 
